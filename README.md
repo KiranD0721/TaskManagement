@@ -12,13 +12,15 @@ Welcome to the Task Management Application, a full-stack web application built w
 
 
 
-![TaskManager](Imgs/TaskManager.png)
-
-
-
-
-
 ![Dashboard](Imgs/dashboard.png)
+
+
+
+
+
+
+
+![TaskManager](Imgs/TaskManager.png)
 
 ## Overview
 
