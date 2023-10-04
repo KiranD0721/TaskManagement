@@ -1,17 +1,24 @@
 # TaskManagement
 Pilot Project - Task Management Application using Mern Stack
 
+![Homepage](Imgs/Homepage.png)
+
 # Task Management Application
 
 Welcome to the Task Management Application, a full-stack web application built with the MERN stack (MongoDB, Express, React, Node.js). This application allows users to manage tasks, stay organized, and be more productive.
 
 
-![Homepage](Imgs/Homepage.png)
+
+
+
+
 ![TaskManager](Imgs/TaskManager.png)
+
+
+
+
+
 ![Dashboard](Imgs/dashboard.png)
-
-
-
 
 ## Overview
 
