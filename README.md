@@ -7,18 +7,7 @@ Welcome to the Task Management Application, a full-stack web application built w
 
 
 
-## Table of Contents
 
-- [Overview](#overview)
-- [Getting Started](#getting-started)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Folder Structure](#folder-structure)
-- [Client](#client)
-- [Database](#database)
-- [Server](#server)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -35,7 +24,7 @@ To run this application locally, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/TaskManagement.git
+   git clone https://github.com/KiranD0721/TaskManagement.git
 
 
 Change directory to the project root:
