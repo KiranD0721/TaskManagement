@@ -1,0 +1,41 @@
+/* CSS code without SCSS nesting */
+/* SCSS equivalent of the provided CSS */
+
+@import '../../styles/components/buttons';
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: cyan;
+    align-items: center;
+    height: 60px;
+    padding: 0 20px;
+  
+    &__logo {
+      h3 {
+        color: white;
+        font-weight: 300;
+      }
+    }
+
+
+
+    .buttonss {
+      margin-left: 10px;
+      padding: 10px;
+      border: none;
+      outline: none;
+      border-radius: 10px;
+      min-width: 150px;
+      background: white;
+      cursor: pointer;
+  
+      &:hover {
+        opacity: 0.4;
+        transition: opacity 0.3s;
+      }
+    }
+    
+  
+    
+  }
+  

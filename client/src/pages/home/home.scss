@@ -1,0 +1,34 @@
+@import '../../styles/abstract/mixins';
+@import '../../styles/components/buttons';
+.home{
+    width: 100%;
+    height: 100vh;
+    background: url('../../images/background.jpg') no-repeat;
+    background-size: cover;
+
+
+    @include flex-center(flex, row, center, center);
+
+
+    &__container {
+        width: 50%;
+        text-align: center;
+
+        h1{
+            font-size: 38px;
+        }
+
+        .button {
+            background-color: red;
+            color: white;
+            margin-top: 1rem;
+            font-size: 1.2 rem;
+            padding: 10px;
+            display: inline-block;
+            border-radius: 10px;
+            
+
+        }
+        
+    }
+}
